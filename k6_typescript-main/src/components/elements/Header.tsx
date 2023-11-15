@@ -28,8 +28,8 @@ export const Header = () => {
             </a>
           </li>
           <li>
-            <a href="#" className="nav-link px-2 text-white">
-              Features
+            <a href="./profile" className="nav-link px-2 text-white">
+              Profile
             </a>
           </li>
           <li>
